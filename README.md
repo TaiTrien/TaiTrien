@@ -9,9 +9,8 @@
   Hey! Nice to see you.
 </h1>
 
-I'm Trien - A mobile application developer's on the way to become a fullstack engineer. I have a huge passion for mobile application development, software architect and how to make software scalable in the long term. 
-
-I am also an open-minded learner, a hard-working person, and a responsible teammate.
+<p>I'm Trien - A Flutter developer and following to native things 🧑‍💻</p>
+<p>I have a huge passion for mobile application development, software architect and how to make software scalable in the long term. </p>
 
 ## 📫 Find me at
 <div id="badges">
