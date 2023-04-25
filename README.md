@@ -20,6 +20,9 @@
   <a href="mailto:v.v.t.trien@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
+   <a href="https://stackoverflow.com/users/12378954/taitrien">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
+  </a>
 </div>
 
 ## 🛠️ Languages and tools
