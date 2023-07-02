@@ -9,7 +9,7 @@
   Hey! Nice to see you.
 </h1>
 
-<p>I'm Trien - A Flutter developer and following to native things 🧑‍💻</p>
+<p>I'm Trien, you can call me Miles - A Flutter developer and following to native things 🧑‍💻</p>
 <p>I have a huge passion for mobile application development, software architect and how to make software scalable in the long term. </p>
 
 ## 📫 Find me at
