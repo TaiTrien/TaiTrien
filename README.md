@@ -38,9 +38,6 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"></code>
 
-## 🔥 My stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TaiTrien&show_icons=true&theme=tokyonight" alt="Trien's stats" />
-
 <!--
 **TaiTrien/TaiTrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
