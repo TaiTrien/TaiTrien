@@ -23,6 +23,9 @@
    <a href="https://stackoverflow.com/users/12378954/taitrien">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
   </a>
+  <a href="https://x.com/miles_vo99">
+    <img src="https://img.shields.io/badge/-000?logo=x&logoColor=white&style=for-the-badge" alt="X Badge"/>
+  </a>
 </div>
 
 ## 🛠️ Languages and tools
